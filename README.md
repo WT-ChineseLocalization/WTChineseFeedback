@@ -1,5 +1,7 @@
 # WTChineseFeedback
-此项目用于接收与 War Thunder 官方简体中文有关的反馈和建议
+此项目用于接收与 War Thunder 官方简体中文翻译有关的反馈和建议
+**请注意:此项目不用于收集 BUG 等问题
+
 
 提交方式：
 1. 注册 GitHub（此网站）的账号
